@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Nursultan Abdullaev"
+title                    : "Nursultan A."
 title_separator          : "-"
 name                     : &name "Nursultan Abdullaev"
 description              : &description "Personal Website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,22 +26,22 @@ author:
   avatar           : "profile.png"
   name             : "Nursultan Abdullaev"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Research Engineer at Yandex, BSc/MSc student at Innopolis University"
-  location         : "Innopolis, Russia"
+  bio              : "Sr. Research Engineer at Yandex, BSc/MSc student at Innopolis U"
+  location         : "Anywhere"
   employer         : "Yandex"
   uri              : # URL
-  email            : "nursabduni@gmail.com & n.abdullaev@innopolis.university" 
+  email            : "nursabduni@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
