@@ -1,5 +1,5 @@
 ---
-title: "National Olympiad in Informatics — Finalist"
+title: "National Olympiad in Informatics — Top 20"
 collection: publications
 category: awards
 permalink: /award/informatics-olympiad-2021
