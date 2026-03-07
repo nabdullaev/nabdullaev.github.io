@@ -23,7 +23,7 @@ repository               : "nabdullaev/nabdullaev.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
+  avatar           : "./profile_pic.png"
   name             : "Nursultan Abdullaev"
   pronouns         : # example: "she/her"  
   bio              : "Sr. Research Engineer @ Yandex, BSc/MSc @ Innopolis University"
