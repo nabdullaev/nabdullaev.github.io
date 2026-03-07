@@ -1,6 +1,7 @@
 ---
 title: "National Olympiad in Informatics — Finalist"
-collection: awards
+collection: publications
+category: awards
 permalink: /award/informatics-olympiad-2021
 date: 2021-01-01
 ---

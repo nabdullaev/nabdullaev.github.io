@@ -1,6 +1,7 @@
 ---
 title: "Yandex x HSE Machine Learning and NLP School"
-collection: activities
+collection: publications
+category: activities
 permalink: /activity/yandex-hse-ml-school-2024
 date: 2024-01-01
 ---

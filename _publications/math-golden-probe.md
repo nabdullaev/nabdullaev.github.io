@@ -1,6 +1,7 @@
 ---
 title: "Golden Probe National Mathematics Olympiad — 1st Place"
-collection: awards
+collection: publications
+category: awards
 permalink: /award/golden-probe-math-2020
 date: 2020-01-01
 ---

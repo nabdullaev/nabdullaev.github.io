@@ -1,6 +1,7 @@
 ---
 title: "Control, Information, and Optimization Summer School (B. T. Polyak)"
-collection: activities
+collection: publications
+category: activities
 permalink: /activity/polyak-summer-school-2024
 date: 2024-01-01
 ---

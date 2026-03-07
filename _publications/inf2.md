@@ -1,6 +1,7 @@
 ---
 title: "National Olympiad in Informatics — Top 20 Finalist"
-collection: awards
+collection: publications
+category: awards
 permalink: /award/informatics-olympiad-2022
 date: 2022-01-01
 ---

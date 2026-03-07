@@ -1,6 +1,7 @@
 ---
 title: "Center of Mathematical Finance (CMF) Quantitative Research Fellowship"
-collection: activities
+collection: publications
+category: activities
 permalink: /activity/cmf-fellowship
 date: 2023-01-01
 ---
