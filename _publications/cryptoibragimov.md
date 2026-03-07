@@ -4,7 +4,7 @@ collection: publications
 category: papers
 permalink: /publication/2023-crypto-stylised-facts-conference
 excerpt: "Empirical analysis of stylised facts in cryptocurrency markets."
-date: 2023-01-01
+date: 2024-01-01
 venue: "CMStatistics — CFE 2023"
 paperurl: "https://www.cfenetwork.org/CFE2023/"
 ---

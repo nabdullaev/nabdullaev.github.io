@@ -4,7 +4,7 @@ collection: publications
 category: papers
 permalink: /publication/2025-diminishing-noise-dp
 excerpt: "We study diminishing noise schedules in differentially private optimization and show improved convergence while maintaining privacy guarantees."
-date: 2025-01-01
+date: 2026-01-01
 venue: "Under review"
 paperurl: "https://openreview.net/pdf?id=xzJrPSlMS4"
 
