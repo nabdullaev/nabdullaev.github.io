@@ -1,6 +1,7 @@
 ---
 title: "Bilimkana National Mathematics Olympiad — 2nd Place"
-collection: awards
+collection: publications
+category: awards
 permalink: /award/bilimkana-math-2021
 date: 2021-01-01
 ---
