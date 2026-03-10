@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm Nursultan. I'm a BSc/MSc student at [Innopolis University](https://innopolis.university/en/), a research-focused institute in Russia.
 
-Currently, I work as a **Senior ML Research Engineer** at [Yandex](https://yandex.com/company) Search (100M+ MAU) in the team of **fundamental deep learning and ranking technologies**. My work sits between research and engineering: I build deep learning and ranking models, and train LLMs for large-scale search systems. I’m involved in several search efforts across new features, products, and research directions, with work that improves user experience and contributes directly to revenue.
+Currently, I work as a Senior ML Research Engineer at [Yandex](https://yandex.com/company) Search (100M+ MAU), responsible for **fundamental deep learning and ranking technologies in search**. My work sits between research and engineering: I build deep learning and ranking models, and train LLMs for large-scale search systems. I’m involved in several search efforts across new features, products, and research directions, with work that improves user experience and contributes directly to revenue.
 
 Previously, I worked in ML/DS at [Avito](https://www.avito.ru/), quant research at a hedge fund, and was involved in research projects at [MBZUAI](https://mbzuai.ac.ae/), [MIPT](https://mipt.ru/en), [IU](https://innopolis.university/en/), and [SPBU](https://english.spbu.ru/).
 
